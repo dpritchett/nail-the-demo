@@ -1,9 +1,11 @@
+# 3.1 threw an error :(
 FROM ruby:3.0
 
 RUN apt update -qy
 
 RUN apt install -qy sqlite3 imagemagick iputils-ping htop vim nodejs
 
+# 7.x threw an actionmailer dep version error :(
 RUN gem install rails -v 6.1.4.4
 
 WORKDIR /app

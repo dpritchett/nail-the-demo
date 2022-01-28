@@ -8,4 +8,4 @@ WORKDIR  /app/your_solidus_project_name
 
 RUN bundle add solidus
 
-RUN ./bin/rails generate solidus:install
+RUN ./bin/rails generate solidus:install --auto-accept=yes
