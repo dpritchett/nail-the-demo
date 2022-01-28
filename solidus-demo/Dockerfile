@@ -1,8 +1,8 @@
-FROM ruby:3.1
+FROM ruby:3.0
 
 RUN apt update -qy
 
-RUN apt install -qy sqlite3 imagemagick
+RUN apt install -qy sqlite3 imagemagick iputils-ping htop vim
 
 RUN gem install rails -v 6.1.4.4
 
