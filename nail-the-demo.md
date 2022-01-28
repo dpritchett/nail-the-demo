@@ -45,3 +45,11 @@ otel-cli exec --service my-service-mac --name "curl google" curl https://google.
 ```
 
 [Browse results on local jaeger server for 'my-service-mac'](http://localhost:16686/search?service=my-service-mac)
+
+---
+
+# Product demo
+
+Let's have a look at your new Solidus store in different formats.
+
+[demo.solidus.io](http://demo.solidus.io/)

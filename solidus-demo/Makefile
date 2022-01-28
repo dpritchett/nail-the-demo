@@ -1,3 +1,5 @@
+default: time_rebuild
+
 rails_new:
 	docker build --no-cache -t rails-new-timer -f Dockerfile .
 base:
