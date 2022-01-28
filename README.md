@@ -16,4 +16,6 @@ _Built+tested on a Mac with Homebrew_
 
 `slides` should render the presentation in your terminal like so:
 
-![Screenshot of title slide](./img/title_slide_screenshot.png)
+| Title Slide | Author Selfie from demo day |
+| --------------- | --------------- |
+| ![Screenshot of title slide](./img/title_slide_screenshot.png) | ![Snapshot of author from presentation day](./img/solidusconf-headshot.jpg) |
