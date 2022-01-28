@@ -53,3 +53,12 @@ otel-cli exec --service my-service-mac --name "curl google" curl https://google.
 Let's have a look at your new Solidus store in different formats.
 
 [demo.solidus.io](http://demo.solidus.io/)
+
+---
+
+# Why not dial in from outdoors?
+
+- [take a call from the hammock](./outdoors/call_from_the_yard.MOV)
+- [take a call from the pool](./outdoors/call_from_the_pool.MOV)
+
+(open ./outdoors in Finder)
