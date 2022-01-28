@@ -10,10 +10,13 @@ Daniel Pritchett
 
 Gulf Breeze, Florida
 
+github.com/dpritchett/nail-the/demo
+
 ---
 
 Topics
 
+- Why me?
 - Remote work 
     - Hardware
     - Use your space
@@ -25,6 +28,14 @@ Topics
   - Preparation
   - Day of
   - Examples
+
+---
+
+# Why me?
+
+- Remote work for many years
+- Playful coworker
+- Lots of experiment/pins and toys
 
 ---
 
@@ -47,9 +58,9 @@ Topics
 # Hardware
 
 - Cameras help
-  - Demo here!
+  - Demo here! (in both Zoom and Gather)
 - Microphones help
-  - Demo here!
+  - Demo here! (in both apps)
 - Lighting helps
   - Demo here!
 - Stream Deck
