@@ -3,7 +3,7 @@ default: present
 present:
 	slides nail-the-demo.md
 
-install: install_otel
+install: install_otel install_qrencode
 	brew install slides whalebrew
 	whalebrew install tsub/graph-easy
 
